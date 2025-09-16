@@ -37,7 +37,7 @@ This project analyzes the **Brazilian E-Commerce Olist dataset (2016–2018)** t
 - Dataset – External source: [Olist E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).  
 
 ## Usage
-1. Open the **interactive Power BI dashboard** here: [View Dashboard](your_powerbi_link_here).  
+1. Open the **interactive Power BI dashboard** here: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTQ1Zjc4MjctYmI0NS00NWIzLWJmYzYtOTk5YjA3MTBkODVjIiwidCI6ImE0MWU5ZTIwLTUxNjYtNGUwZC1hYmU3LTBmYjFmNWZlN2E2MCJ9).  
 2. Check the **presentation** in this repo for a guided walkthrough of insights and visuals.  
 3. Download the **Olist dataset** from Kaggle if you’d like to replicate the analysis or build your own dashboards.
 
